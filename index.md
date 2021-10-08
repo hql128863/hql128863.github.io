@@ -1,37 +1,39 @@
-## Welcome to GitHub Pages
+### 个人信息
+#### 姓名: 胡青龙
+#### 学历: 本科
+#### 学校: 大连海事大学
+#### 专业: 通信工程
+#### 邮箱: 2726555297@qq.com
+#### 地址: 江苏省无锡市滨湖区
+#### 电话: 18342212316
+#### 生日: 1997.11.28
 
-You can use the [editor on GitHub](https://github.com/hql128863/hql128863.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+### 个人技能
+#### 英语技能：大学英语4级（CET-4）
+#### IT技能：计算机等级考试2级（c语言）
+#### MS Office办公套件、Ubuntu、PyCharm、Matlab
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 个人荣誉
+#### 高中获得生物竞赛湖北省一等奖，数学竞赛湖北省二等奖
+#### 大学获得大连海事大学“三好学生”以及担任“海风”科技学社副社长
+#### 工作获得中国空军“优秀售后服务标兵”感谢信
 
-### Markdown
+### 实践经历 
+#### 时间: 2019年7月至2021年11月
+#### 公司: 中国航空工业607研究所
+#### 职业: 雷达总体设计师
+#### 项目研究一: 有源相控阵雷达
+-**项目1**
+参与中国航空工业歼-16，歼-16D战机的有源相控阵雷达的设计及技术升级
+-**项目2**
+参与中国空军“金头盔”、“擎电”以及“红剑”项目的跟飞保障、分析数据和雷达排故等任务
+-**项目3**
+参与中国航空工业歼-16有源相控阵雷达处理单元中的主控定时与信号处理模块内fpga/cpld的维修工作
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/hql128863/hql128863.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+#### 项目研究二: 自学Python做的相关项目
+-**项目1**
+在Linux操作系统下用PyCharm开发飞机大战等小游戏
+-**项目2**
+使用Django框架实现药品公司的销售管理系统
+-**项目3**
+使用Python和Flask开发简单的博客系统
